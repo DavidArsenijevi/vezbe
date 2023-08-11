@@ -1,0 +1,5 @@
+mesto = input("unesite mesto:")
+print("prvo slovo mesta je:",mesto[0])
+print("poslednje slovo mesta je:",mesto[len(mesto)-1])
+print("drugo i tece slovo grada je:",mesto[1:3])
+print(mesto[0].isupper())
