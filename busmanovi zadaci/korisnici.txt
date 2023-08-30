@@ -1,0 +1,6 @@
+ID|Uloga|Email|Sifra|Ime|Prezime|Adresa
+1 |kupac|DraganArsenijevic13@gmail.com|ArsenijevicDr12|Dragan|Arsenijevic|Udovice 1
+2 |dostavljac|MarioJocic1@gmail.com|Maki1234|Mario|Jocic|Petrijevski Potok 38
+3 |radnik|Farsenijevic8@gmail.com|ArsenijevicF12|Filip|Arsenijevic|Mostarska 36
+4 |vlasnik|Darsenijevic13@gmail.com|Arsenijevic123|David|Arsenijevic|Udovicki put BB
+5 |admin|JovicaDobrica@gmail.com|LudiJovaLepiGoga|Jovica|Dobrica|Sarengradska BB
