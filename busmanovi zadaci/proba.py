@@ -74,6 +74,26 @@ def registracija():
             print(korisnik)
 
 
+        break
+
+
+
+
+def kupac(nazivfajla):
+    registracija()
+    while True:
+            f = open(nazivfajla, "a")
+            istorija_Porudzbine = input("Unesite porudzbinu: ")
+            f.write(f"{istorija_Porudzbine}\n")
+
+
+
+
+
+
+
+
+
 
 
 
@@ -99,3 +119,5 @@ def main():
 
 
 main()
+kupac("porudzbine.txt")
+
